@@ -59,47 +59,6 @@
 
 ## 📷 我的生活 Life
 
-<p align="center">
-  <img src="images/basketball.jpg" width="250" style="border-radius:12px; margin:5px;">
-  <img src="images/travel.jpg" width="250" style="border-radius:12px; margin:5px;">
-  <img src="images/friends.jpg" width="250" style="border-radius:12px; margin:5px;">
-</p>
-
-<div style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
-  <figure style="text-align:center;">
-    <img src="images/basketball.jpg" width="220" style="border-radius:12px;">
-    <figcaption>🏀 打球的快乐</figcaption>
-  </figure>
-  <figure style="text-align:center;">
-    <img src="images/travel.jpg" width="220" style="border-radius:12px;">
-    <figcaption>🌍 旅行的风景</figcaption>
-  </figure>
-  <figure style="text-align:center;">
-    <img src="images/friends.jpg" width="220" style="border-radius:12px;">
-    <figcaption>😊 和朋友的时光</figcaption>
-  </figure>
-</div>
-
----
-
-## 🎶 我喜欢的音乐 / 影视作品 / 游戏
-
-### 🎵 音乐
-- Frank Ocean
-- Justin Bieber
-- Harry Styles
-
-### 🎬 影视作品
-- 《爱乐之城 La La Land》
-- 《风骚律师 Better Call Saul》
-- 《黄石 Yellowstone》
-
-### 🎮 游戏
-- GTA
-- 战地
-- 荒野大镖客2
-
----
 
 ## 📊 GitHub 统计
 
